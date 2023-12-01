@@ -1,26 +1,28 @@
-[
-  {
-    "id": 1,
-    "island": "Ilha da Amizade",
-    "name": "João Silva",
-    "hemisphere": "Norte",
-    "fruit": "Cereja",
-    "flower": "Tulipa"
-  },
-  {
-    "id": 2,
-    "island": "Ilha da Alegria",
-    "name": "Maria Oliveira",
-    "hemisphere": "Sul",
-    "fruit": "Maçã",
-    "flower": "Rosas"
-  },
-  {
-    "id": 3,
-    "island": "Ilha da Serenidade",
-    "name": "Pedro Santos",
-    "hemisphere": "Norte",
-    "fruit": "Pera",
-    "flower": "Lírios"
-  }
-]
+{
+  "profiles": [
+    {
+      "id": 1,
+      "island": "Ilha da Amizade",
+      "name": "João Silva",
+      "hemisphere": "Norte",
+      "fruit": "Maçã",
+      "flower": "Tulipa"
+    },
+    {
+      "id": 2,
+      "island": "Ilha da Alegria",
+      "name": "Maria Oliveira",
+      "hemisphere": "Sul",
+      "fruit": "Pêssego",
+      "flower": "Rosas"
+    },
+    {
+      "id": 3,
+      "island": "Ilha da Serenidade",
+      "name": "Pedro Santos",
+      "hemisphere": "Norte",
+      "fruit": "Cereja",
+      "flower": "Lírios"
+    }
+  ]
+}
